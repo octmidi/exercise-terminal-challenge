@@ -1,0 +1,22 @@
+1 pwd
+2 ls -a
+3 ls-R
+4 clear
+5 cd terminal/exercise-terminal-challenge/thecmdchallenge/small-name/bigger-name-than-  	before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-	the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-	folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-	to-their-personal-stuff-supercalifragilisticexpialidocious
+
+
+cat tropy.txt
+
+6 cd..
+  ls funcode/*.js
+
+7  mkdir funcode/the-most-funny/no-tan-divertido
+8  cp the-mostboring-text.txt lol.txt
+9  mv funcode/kids.jpg funcode/images/hellow
+10 rm -r small-name
+11 cat the-ultimate-joke.txt
+12 rm -r boringfolder
+13 vi kamehameha/dragon-ball-jokes.md
+
+
+	
